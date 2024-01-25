@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align= "center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=HELLO,%20I%20AM%20HAEBIN👀👋🏻&fontAlign=50&fontColor=ffffff&fontSize=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=HELLO,%20I%20AM%20HAEBIN👀👋🏻&fontColor=ffffff&fontSize=50" width="100%"/>
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Tech Stacks </h2> <br> 
@@ -9,12 +9,12 @@
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=spring security&logoColor=white">
-          <img src="https://img.shields.io/badge/GRADLE-569A31?style=for-the-badge&logo=gradle&logoColor=white">
+          <img src="https://img.shields.io/badge/GRADLE-569A31?style=for-the-badge&logo=gradle&logoColor=white"></br>
           <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></br>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"></br>
           <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
           <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
           <img src="https://img.shields.io/badge/amazonaws-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white">
