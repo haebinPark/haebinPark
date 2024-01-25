@@ -20,7 +20,15 @@
           <img src="https://img.shields.io/badge/amazonaws-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white">
           <img src="https://img.shields.io/badge/JWT-4479A1?style=for-the-badge&logo=jwt&logoColor=white">
           </div>
-    </div>
+    
+    <div align= "center">
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>
+        <div align= "center"> <a href=mailto:haebinzz@naver.com> 
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:haebinzz@naver.com> </a>
+        <a href=mailto:haebinzz93@gmail.com> 
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:haebinzz93@gmail.com"> </a>    
+    </div>  
+</div>
 
         
 <!--
